@@ -1,2 +1,2 @@
 # monitoring
-remote local
+
